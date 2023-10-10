@@ -1,0 +1,12 @@
+.vscode
+__pycache__/
+modelnet40_normal_resampled/
+outputs/
+log/
+data/
+data_one_train_test/
+loss_plt/
+np_to_ply_processed/
+outputs/
+pipe_data/
+predictions/
